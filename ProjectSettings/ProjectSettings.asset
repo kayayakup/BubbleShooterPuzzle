@@ -791,11 +791,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 91874520-ebc1-44b8-bd48-1581b02795ee
+  cloudProjectId: bca72e14-df77-42d7-9773-be5a5a500e6d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: bubble
-  organizationId: despiado
+  projectName: BubbleShooterPuzzle
+  organizationId: yakupkayaa13
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
